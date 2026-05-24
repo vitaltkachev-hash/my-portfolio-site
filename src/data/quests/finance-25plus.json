@@ -1,0 +1,14 @@
+{
+    "id": "finance-25plus",
+    "title": "Wealth Strategist",
+    "steps": [
+        {
+            "question": "What is the '50/30/20 rule' in budgeting?",
+            "options": [
+                { "text": "50% Needs, 30% Wants, 20% Savings/Debt", "correct": true },
+                { "text": "50% Savings, 30% Needs, 20% Wants", "correct": false },
+                { "text": "50% Wants, 30% Savings, 20% Needs", "correct": false }
+            ]
+        }
+    ]
+}

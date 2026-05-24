@@ -1,0 +1,15 @@
+{
+  "name": "quest-haven",
+  "version": "1.0.0",
+  "description": "Educational quest platform for all ages.",
+  "main": "src/js/index.js",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "npx playwright test"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "serve": "^14.2.6"
+  }
+}

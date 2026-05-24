@@ -1,0 +1,14 @@
+{
+    "id": "memory-65plus",
+    "title": "Mind Sharpeners",
+    "steps": [
+        {
+            "question": "Which of these is a great way to maintain cognitive health?",
+            "options": [
+                { "text": "Learning a new language or skill", "correct": true },
+                { "text": "Sleeping 20 hours a day", "correct": false },
+                { "text": "Avoiding social interaction", "correct": false }
+            ]
+        }
+    ]
+}

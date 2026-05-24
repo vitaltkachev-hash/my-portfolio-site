@@ -1,0 +1,20 @@
+{
+    "id": "colors-1-3",
+    "title": "Magic Colors",
+    "steps": [
+        {
+            "question": "What color is a ripe banana?",
+            "options": [
+                { "text": "Yellow", "correct": true },
+                { "text": "Blue", "correct": false }
+            ]
+        },
+        {
+            "question": "What color is the clear sky?",
+            "options": [
+                { "text": "Green", "correct": false },
+                { "text": "Blue", "correct": true }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "science-7-12",
+    "title": "Lab Explorer",
+    "steps": [
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                { "text": "Mars", "correct": true },
+                { "text": "Venus", "correct": false },
+                { "text": "Jupiter", "correct": false }
+            ]
+        },
+        {
+            "question": "What is the process by which plants make their food?",
+            "options": [
+                { "text": "Respiration", "correct": false },
+                { "text": "Photosynthesis", "correct": true },
+                { "text": "Digestion", "correct": false }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "intro",
+    "title": "Welcome Explorer!",
+    "steps": [
+        {
+            "question": "Are you ready to start your journey in Quest Haven?",
+            "options": [
+                { "text": "Yes, let's go!", "correct": true },
+                { "text": "Maybe later", "correct": false }
+            ]
+        }
+    ]
+}

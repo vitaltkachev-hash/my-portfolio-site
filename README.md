@@ -1,70 +1,22 @@
-# Digital Marketing & AI Automation Portfolio
+# Quest Haven
 
-Welcome to my portfolio website! This is a showcase of my expertise in digital marketing, content automation, and AI integration.
+Quest Haven is a modern dynamic educational platform with engaging quests for users of all ages. The platform is designed to stimulate cognitive development through quests, games, and educational tasks.
 
-## 🚀 About Me
+## 🌟 Key Features
 
-I'm a digital marketing specialist and AI automation developer with a passion for creating efficient, scalable marketing workflows. With expertise in content strategy, SEO, social media marketing, and workflow automation, I help businesses leverage technology to achieve their marketing goals.
-
-## 💼 Services & Expertise
-
-### Content Automation
-- Automated content workflows with n8n
-- RSS feed integration and syndication
-- AI-powered content generation and rewriting
-- Multi-platform content distribution
-
-### SEO & Content Marketing
-- Website optimization and technical SEO
-- Keyword research and content strategy
-- High-ranking content creation
-- Analytics and performance tracking
-
-### Social Media Marketing (SMM)
-- SMM strategy development
-- Telegram and VK automation
-- Community engagement and growth
-- Social media analytics
-
-### AI Integration
-- OpenAI API integration
-- Google Gemini workflow automation
-- Meta LLaMA implementation
-- Custom AI-powered solutions
-
-### Marketing Analytics
-- Google Analytics implementation
-- Yandex metrics tracking
-- Conversion optimization
-- Data-driven decision making
-
-### Web Development
-- Custom HTML/CSS/JavaScript solutions
-- API automation and integration
-- Workflow design and optimization
-- Tech stack: JavaScript, n8n, Google Apps Script
+- **Age-Tailored Quests**: Content specifically designed for age groups from toddlers to seniors.
+- **Dynamic Interface**: Colorful and intuitive UI/UX.
+- **Progress Tracking**: Achievements, completed quests, and personal recommendations.
+- **Diverse Topics**: Languages, Math, Logic, Science, and Soft Skills.
 
 ## 🛠️ Tech Stack
 
-- **Automation:** n8n, Zapier, Make
-- **CMS & Platforms:** Craftum, WordPress
-- **Analytics:** Google Analytics, Yandex Metrica
-- **Social Media:** Telegram, VK, Instagram
-- **AI Tools:** OpenAI, Google Gemini, Meta LLaMA, Hugging Face
-- **Languages:** JavaScript, JSON, HTML/CSS
+- **Frontend**: Vanilla JavaScript (ES6+), CSS3 (Modern Flexbox/Grid), HTML5.
+- **Data**: JSON-based quest configurations.
+- **Testing**: Playwright for end-to-end verification.
 
-## 📊 Key Achievements
+## 🚀 Getting Started
 
-✓ Developed automated content workflows saving 30+ hours per month
-✓ Increased organic traffic by optimizing SEO strategy
-✓ Implemented AI-powered content generation reducing creation time by 50%
-✓ Successfully integrated multiple marketing platforms into unified workflow
-✓ Created reusable automation templates for SMM and content marketing
-
-## 📫 Contact
-
-Feel free to reach out if you're interested in collaboration or have questions about my work.
-
----
-
-*Built with passion for marketing automation and continuous improvement* 🚀
+1. Install dependencies: `npm install`
+2. Start the development server: `npm start`
+3. Run tests: `npm test`

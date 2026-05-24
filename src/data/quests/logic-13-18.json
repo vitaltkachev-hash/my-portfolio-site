@@ -1,0 +1,21 @@
+{
+    "id": "logic-13-18",
+    "title": "Brain Master",
+    "steps": [
+        {
+            "question": "If all A are B, and all B are C, then all A are C.",
+            "options": [
+                { "text": "True", "correct": true },
+                { "text": "False", "correct": false }
+            ]
+        },
+        {
+            "question": "What comes next in the sequence: 2, 4, 8, 16, ...?",
+            "options": [
+                { "text": "24", "correct": false },
+                { "text": "32", "correct": true },
+                { "text": "64", "correct": false }
+            ]
+        }
+    ]
+}

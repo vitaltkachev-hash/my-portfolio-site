@@ -1,0 +1,14 @@
+{
+    "id": "softskills-18-25",
+    "title": "Team Leader",
+    "steps": [
+        {
+            "question": "Your team is facing a tight deadline and conflict arises between two members. What is the best first step?",
+            "options": [
+                { "text": "Ignore it and hope it goes away", "correct": false },
+                { "text": "Listen to both parties separately to understand their perspectives", "correct": true },
+                { "text": "Assign a third person to do their work", "correct": false }
+            ]
+        }
+    ]
+}
